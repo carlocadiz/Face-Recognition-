@@ -1,6 +1,6 @@
-##Face Recognition app
+## Face Recognition app
 
-This is the final project from the Udemy course The Complete Web Developer in 2019: Zero to Mastery.
+### This is the final project from the Udemy course The Complete Web Developer in 2019: Zero to Mastery.
 
 The app will allow registered users to submit image URLs and using Clarifai API's Face Detect Model, a border will be drawn around the any face detected in the image.
 
